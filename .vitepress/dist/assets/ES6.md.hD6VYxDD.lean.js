@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as p}from"./chunks/framework.mHHrDb8M.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6.md","filePath":"ES6.md"}'),e={name:"ES6.md"},l=p("",12),i=[l];function t(c,o,r,d,h,u){return n(),a("div",null,i)}const g=s(e,[["render",t]]);export{m as __pageData,g as default};

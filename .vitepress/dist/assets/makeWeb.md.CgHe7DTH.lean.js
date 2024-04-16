@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a2 as n}from"./chunks/framework.mHHrDb8M.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"makeWeb.md","filePath":"makeWeb.md"}'),e={name:"makeWeb.md"},t=n("",18),p=[t];function l(h,o,d,r,c,k){return i(),a("div",null,p)}const u=s(e,[["render",l]]);export{m as __pageData,u as default};

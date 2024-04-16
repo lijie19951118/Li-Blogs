@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "小李的博客"
-  text: "部署网站"
-  tagline: 每天进步一点点
+  text: "JavaScript"
+  tagline: 将来的你会感谢现在的自己
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
+      link: /makeWeb
     - theme: alt
-      text: API 文档
-      link: /api-examples
+      text: ES6基础
+      link: /ES6
 
 features:
-  - title: 特点 A
-    details: 未来的你会感谢现在的自己
-  - title: 特点 B
-    details: 未来的你会感谢现在的自己
-  - title: 特点 C
-    details: 未来的你会感谢现在的自己
+  - title: ES6
+    details: 它的目标，是使得 JavaScript 语言可以用来编写复杂的大型应用程序，成为企业级开发语言。
+  - title: Promise
+    details: Promise 是异步编程的一种解决方案，比传统的解决方案——回调函数和事件——更合理和更强大。
+  - title: Class
+    details: ES6 提供了更接近传统语言的写法，引入了 Class（类）这个概念，作为对象的模板。
 ---
 
