@@ -1,0 +1,37 @@
+import{_ as n,c as s,o as a,a2 as p}from"./chunks/framework.mHHrDb8M.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"npm.md","filePath":"npm.md"}'),l={name:"npm.md"},e=p(`<p>nodejs</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>npm官网：https://www.npmjs.com/</span></span>
+<span class="line"><span>npm切换镜像工具：nrm</span></span>
+<span class="line"><span>查看所有镜像地址：nrm ls</span></span>
+<span class="line"><span>使用镜像地址：nrm use taobao</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>npm i vue        npm install vue --save</span></span>
+<span class="line"><span>npm i webpack -D    npm install webpack --save-dev</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>npm uninstall vue</span></span>
+<span class="line"><span>npm r xxx （npm remove xxx）</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>发布npm包</span></span>
+<span class="line"><span>初始化：npm init</span></span>
+<span class="line"><span>登录：npm login</span></span>
+<span class="line"><span>发布：npm publish</span></span>
+<span class="line"><span>更新：修改版本号，npm publish</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>node版本管理工具：nvm</span></span>
+<span class="line"><span>nvm list available（查看可安装版本）</span></span>
+<span class="line"><span>nvm install x.x.x（安装）</span></span>
+<span class="line"><span>nvm uninstall x.x.x（卸载）</span></span>
+<span class="line"><span>nvm use x.x.x（使用）</span></span>
+<span class="line"><span>express</span></span>
+<span class="line"><span>全局脚手架工具：express-generator</span></span>
+<span class="line"><span>文件上传请求体工具：formidable</span></span>
+<span class="line"><span>模板引擎：ejs</span></span>
+<span class="line"><span>mongodb</span></span>
+<span class="line"><span>下载：https://www.mongodb.com/try/download/community</span></span>
+<span class="line"><span>设置全局变量</span></span>
+<span class="line"><span>启动服务端：mongod</span></span>
+<span class="line"><span>启动用户端服务：mongo</span></span>
+<span class="line"><span>mongoose</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>接口测试：apipost</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>会话管理</span></span>
+<span class="line"><span>JWT（json web token）</span></span></code></pre></div>`,2),i=[e];function c(t,o,m,r,d,_){return a(),s("div",null,i)}const x=n(l,[["render",c]]);export{v as __pageData,x as default};
