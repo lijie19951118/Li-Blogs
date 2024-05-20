@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "小李的博客"
+  name: "Li 的博客"
   text: "JavaScript"
-  tagline: 将来的你会感谢现在的自己
+  tagline: 不积跬步 无以至千里 不积小流 无以成江海
   actions:
     - theme: brand
-      text: 快速开始
+      text: 开始学习
       link: /makeWeb
     - theme: alt
       text: ES6基础

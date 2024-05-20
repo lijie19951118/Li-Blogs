@@ -1,10 +1,21 @@
-### 部署网站
+### Nodejs部署
 
-1.	提交到git上
-2.	链接服务器
+```
+const path = require('path');
+const express = require('express');
 
-### ssh
-ssh -X 账号@公网ip
+const app = express();
+
+app.use(express.static(path.join(__dirname, '../../../VitePress/.vitepress/dist')));
+
+app.listen(80, () => {
+	console.log('服务器启动:http://127.0.0.1:80')
+})
+```
+
+
+### nginx部署
+
 
 ###	Linux命令
 查看目录	ls
