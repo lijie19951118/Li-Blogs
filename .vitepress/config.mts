@@ -13,6 +13,7 @@ export default defineConfig({
         text: "开始",
         items: [
           { text: "部署网站", link: "/makeWeb" },
+          { text: "JavaScript", link: "/JavaScript" },
           { text: "ES6", link: "/ES6" },
           { text: "ES7+", link: "/ES7+" },
           { text: "Promise基础", link: "/Promise" },
@@ -20,6 +21,7 @@ export default defineConfig({
           { text: "闭包", link: "/闭包" },
           { text: "vue", link: "/vue" },
           { text: "npm", link: "/npm" },
+          { text: "vue组件通信", link: "/vue组件通信" },
           // { text: 'Test', link: '/test' },
         ],
       },
