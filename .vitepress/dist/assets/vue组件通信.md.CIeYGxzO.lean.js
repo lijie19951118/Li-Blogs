@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.mHHrDb8M.js";const o=JSON.parse('{"title":"1. props","description":"","frontmatter":{},"headers":[],"relativePath":"vue组件通信.md","filePath":"vue组件通信.md"}'),t={name:"vue组件通信.md"},l=n("",44),h=[l];function p(k,e,E,r,d,g){return a(),i("div",null,h)}const c=s(t,[["render",p]]);export{o as __pageData,c as default};
