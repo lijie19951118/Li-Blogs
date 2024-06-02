@@ -3,8 +3,10 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Li 的博客",
-  description: "部署网站",
+  description: "Li 的博客",
   themeConfig: {
+    // siteTitle: false,
+    logo: "/svg/L.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "首页", link: "/" }],
 
@@ -36,5 +38,12 @@ export default defineConfig({
         link: "http://www.fulili.cn:8888",
       },
     ],
+
+    footer: {
+      message:
+        "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      // copyright: "Copyright © 2019-present Evan You",
+    },
   },
+  head: [["link", { rel: "icon", href: "/svg/L.svg" }]],
 });
