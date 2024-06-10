@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as t}from"./chunks/framework.DFrfdyhf.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"PromiseCode.md","filePath":"PromiseCode.md"}'),p={name:"PromiseCode.md"},e=t("",2),l=[e];function i(c,r,o,m,u,f){return a(),n("div",null,l)}const v=s(p,[["render",i]]);export{d as __pageData,v as default};

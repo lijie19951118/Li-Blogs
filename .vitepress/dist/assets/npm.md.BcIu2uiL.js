@@ -1,4 +1,4 @@
-import{_ as n,c as s,o as a,a2 as p}from"./chunks/framework.mHHrDb8M.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"npm.md","filePath":"npm.md"}'),l={name:"npm.md"},e=p(`<p>nodejs</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>npm官网：https://www.npmjs.com/</span></span>
+import{_ as n,c as s,o as a,a2 as p}from"./chunks/framework.DFrfdyhf.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"npm.md","filePath":"npm.md"}'),l={name:"npm.md"},e=p(`<p>nodejs</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>npm官网：https://www.npmjs.com/</span></span>
 <span class="line"><span>npm切换镜像工具：nrm</span></span>
 <span class="line"><span>查看所有镜像地址：nrm ls</span></span>
 <span class="line"><span>使用镜像地址：nrm use taobao</span></span>

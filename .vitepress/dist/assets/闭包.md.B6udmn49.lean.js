@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as e}from"./chunks/framework.DFrfdyhf.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"闭包.md","filePath":"闭包.md"}'),t={name:"闭包.md"},p=e("",1),c=[p];function i(o,l,_,r,d,h){return n(),a("div",null,c)}const f=s(t,[["render",i]]);export{u as __pageData,f as default};
